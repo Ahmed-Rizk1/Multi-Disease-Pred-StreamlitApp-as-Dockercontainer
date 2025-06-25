@@ -1,5 +1,3 @@
-## Preferred IDE: Pycharm
-
 ### Test the streamlit app on local:
 
 1. Install required dependencies on local:
